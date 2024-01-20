@@ -104,7 +104,7 @@ One-stop shop for people interested in doing what they want in VRchat.
 
 -   [VRCX](https://github.com/vrcx-team/VRCX)- Friendship management tool for VRChat
 -   [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Helps making your sleeping in VRChat more comfortable
--   [OVRT_Soundpad](https://github.com/jangxx/OVRT_Soundpad) - OVR Toolkit app for triggering Soundpad effects while being in VR
+-   [OVRT_Soundpad](https://steamcommunity.com/sharedfiles/filedetails/?id=2596213066) - OVR Toolkit app for triggering Soundpad effects while being in VR
 -   [FewTags](https://github.com/Fewdys/FewTags) - Extenal tool for showing FewTags of players
 
 ---
