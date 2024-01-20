@@ -5,7 +5,7 @@ One-stop shop for people interested in doing what they want in VRchat.
 > [!CAUTION]
 > If you are searching for just not bannable tools please check out [the respository which inspired this awesome list](https://github.com/madjin/awesome-vrchat)
 
-## Websites
+## Websites for finding assets / help
 
 -   [Ripper Store Forum](https://forum.ripper.store) - Forum for distributing free resources
 -   [VRModels](https://vrmodels.store) - Free Assets for VRChat with a paid section for booth products
