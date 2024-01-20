@@ -40,6 +40,7 @@ One-stop shop for people interested in doing what they want in VRchat.
 ## Crashers
 
 -   [VRChat-Crasher](https://github.com/Duzopy/VRChat-Crasher) - Instructions for making an CorruptAssetBundle crasher
+-   [vrchat-avatar-crasher](https://github.com/abbe/vrchat-avatar-crasher) - Tool for automatic blacklisting the crasher you are using
 
 ---
 
@@ -51,11 +52,24 @@ One-stop shop for people interested in doing what they want in VRchat.
 
 ---
 
+## Unity Tools
+
+### Avatars
+
+-   [PumpkinsAvatarTools](https://github.com/rurre/PumkinsAvatarTools) - Toolbox for easily setting up avatars
+-   [Markcreator/Unity-Tools](https://github.com/Markcreator/Unity-Tools) - Useful tools for avatar creation
+-   [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders) - Tool for having better visible folders in Unity
+
+### Worlds
+
+-   [ClientSim](https://github.com/vrchat-community/ClientSim) - Client Simulator for World Building
+
+---
+
 ## Assets
 
 ### General
 
--   [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders) - Tool for having better visible folders in Unity
 -   [Reava/Resources](https://github.com/Reava/Resources) - Template for group banners
 
 ### Locomotion
@@ -64,6 +78,7 @@ One-stop shop for people interested in doing what they want in VRchat.
 
 ### Shaders
 
+-   [RainyGlassShader](https://github.com/toadstorm/RainyGlassShader) - Rain-on-glass effect shader
 -   [VRC-Cancerspace](https://github.com/AkaiMage/VRC-Cancerspace) - Star skybox/texture shader
 
 ---
@@ -76,6 +91,16 @@ One-stop shop for people interested in doing what they want in VRchat.
 
 ---
 
+## OSC
+
+-   [vrcosc-magicchatbox](https://github.com/BoiHanny/vrcosc-magicchatbox) - Chatbox tool with TTS and more
+-   [vrc-osc-miband-hrm](https://github.com/vard88508/vrc-osc-miband-hrm) - Mi Band/Amazfit heart rate monitor
+
+---
+
 ## Other Tools
 
+-   [VRCX](https://github.com/vrcx-team/VRCX)- Friendship management tool for VRChat
+-   [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - Helps making your sleeping in VRChat more comfortable
+-   [OVRT_Soundpad](https://github.com/jangxx/OVRT_Soundpad) - OVR Toolkit app for triggering Soundpad effects while being in VR
 -   [FewTags](https://github.com/Fewdys/FewTags) - Extenal tool for showing FewTags of players
