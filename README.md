@@ -88,6 +88,7 @@ One-stop shop for people interested in doing what they want in VRchat.
 -   [vrcdb.ravenwood.dev](https://vrcdb.ravenwood.dev) - Avatar search by Ravenwood
 -   [Ravenwood-AvatarLogger](https://github.com/Lua-Ravenwood/Ravenwood-AvatarLogger) - Avatar Logger for vrcdb.ravenwood.dev
 -   [AviDrugZ](https://github.com/Klauensprung/AviDrugZ) - Avatar Logger & Search for vrcdb.ravenwood.dev
+-   [VRCScannerTool](https://github.com/KaichiSama/VRCScannerTool) - Avatar Logger for an upcoming search
 
 ---
 
