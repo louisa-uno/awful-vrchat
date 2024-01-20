@@ -93,7 +93,8 @@ One-stop shop for people interested in doing what they want in VRchat.
 
 ## OSC
 
--   [vrcosc-magicchatbox](https://github.com/BoiHanny/vrcosc-magicchatbox) - Chatbox tool with TTS and more
+-   [vrcosc-magicchatbox](https://github.com/BoiHanny/vrcosc-magicchatbox) - Automatic Chatbox tool with TTS and more
+-   [TTS-Voice-Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) - STTTS (Speech to TTS) Tool
 -   [vrc-osc-miband-hrm](https://github.com/vard88508/vrc-osc-miband-hrm) - Mi Band/Amazfit heart rate monitor
 
 ---
